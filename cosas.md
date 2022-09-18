@@ -138,11 +138,15 @@ Some text to show that the reference links can follow later.
 Images
 Here's our logo (hover to see the title text):
 
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
 Inline-style: 
-![topo](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSWopgElIybN8HsX-R4KfTaQrLxmyvN48SV7omLt7PA_WqUPTbcquWMtjEFZstPxREA "Roman")
+![topo](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSWopgElIybN8HsX-R4KfTaQrLxmyvN48SV7omLt7PA_WqUPTbcquWMtjEFZstPxREA, <img src="drawing.jpg" alt="drawing" width="200"/> "Roman")
 
 Reference-style: 
 ![alt text][logo]
+
+<img src="http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSWopgElIybN8HsX-R4KfTaQrLxmyvN48SV7omLt7PA_WqUPTbcquWMtjEFZstPxREA" width="120" height="200" />
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 Here's our logo (hover to see the title text):
