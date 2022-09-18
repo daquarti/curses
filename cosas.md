@@ -139,7 +139,7 @@ Images
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![topo](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSWopgElIybN8HsX-R4KfTaQrLxmyvN48SV7omLt7PA_WqUPTbcquWMtjEFZstPxREA "Roman")
 
 Reference-style: 
 ![alt text][logo]
