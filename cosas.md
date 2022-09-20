@@ -150,6 +150,8 @@ Reference-style:
 
 <img src="http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSWopgElIybN8HsX-R4KfTaQrLxmyvN48SV7omLt7PA_WqUPTbcquWMtjEFZstPxREA" width="120" height="200" />
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCy78DbLh9sQJuTOTiRLD2OtHKCxsL9GQSQ&usqp=CAU" />
+
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 Here's our logo (hover to see the title text):
 
